@@ -57,12 +57,6 @@ I am a detail-oriented web developer excited to start my career in creating mean
 
 ---
 
-## 📈 GitHub Stats:  
-![Hardevsinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
----
-
 ## 📫 Contact Me:  
 - **Email:** [zala07754@gmail.com](mailto:zala07754@gmail.com)  
 - **Portfolio:** [hardevs-portfolio.onrender.com](https://hardevs-portfolio.onrender.com)  
