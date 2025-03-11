@@ -2,7 +2,7 @@
 ### Passionate Web Developer | MERN & Django REST Framework Enthusiast  
 
 I am a detail-oriented web developer excited to start my career in creating meaningful digital experiences. With a solid foundation in both front-end and back-end development, I specialize in building responsive and user-friendly web applications. I enjoy bringing ideas to life on the web and constantly challenging myself to learn and grow in this ever-evolving field.  
-
+ 
 ---
 
 ## 🔭 What I'm Currently Working On:  
