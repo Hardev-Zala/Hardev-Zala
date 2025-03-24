@@ -54,9 +54,10 @@ I am a detail-oriented web developer excited to start my career in creating mean
    - Built a Netflix-inspired web application featuring responsive design, secure JWT authentication, and real-time movie data fetched from the TMDB API.  
    - Key functionalities include a video player with adaptive streaming, search with filtering, and user-specific features like watchlists and playback history.  
    - The backend, powered by Node.js, Express.js, and MongoDB, ensures efficient data handling and scalability.  
-## Current Project In Which I am working:
+
 3. **[Crypto Trading WebApplication (MERN Stack)]()**  
-   - Developed a full-stack Crypto trading wesite with good and resposnive UI,secure JWT authentication,real-time crypto symbols price updates(15-min delay) from the Finnhub API and real-time news from the alphavantage API.  
+   - Developed a full-stack Crypto trading wesite with good and resposnive UI,secure JWT authentication,real-time crypto symbols price updates(15-min delay) from the Finnhub API and real-time news from the       
+     alphavantage API.  
    - Key functionalities include a live symbols-prices and news updates,live updateable charts for symbols,trade with CE/PE,user-specific watchlist,trade and transaction history.  
    - The backend, powered by Node.js, Express.js, and MongoDB, ensures efficient data handling and scalability.
 
