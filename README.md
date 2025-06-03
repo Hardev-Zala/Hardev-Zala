@@ -5,7 +5,7 @@ I am a detail-oriented web developer excited to start my career in creating mean
 
 ---
 
-## 🔭 What I'm Currently Working On:  
+## 🔭 What I'm Currently Working On:   
 - **Crypto Trading WebApplication:** MERN stack application with real-time updates using WebSocket(for real-time updates),Alpha Vantage API(for news) and Finnhub API(for fetching Crypto Symbols Prices).  
 - **JavaScript Mastery:** Preparing for upcoming interviews with a focus on advanced JavaScript concepts.  
 
