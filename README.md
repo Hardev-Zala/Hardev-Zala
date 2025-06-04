@@ -4,7 +4,7 @@
 I am a detail-oriented web developer excited to start my career in creating meaningful digital experiences. With a solid foundation in both front-end and back-end development, I specialize in building responsive and user-friendly web applications. I enjoy bringing ideas to life on the web and constantly challenging myself to learn and grow in this ever-evolving field.  
 
 ---
-
+ 
 ## 🔭 What I'm Currently Working On:   
 - **Crypto Trading WebApplication:** MERN stack application with real-time updates using WebSocket(for real-time updates),Alpha Vantage API(for news) and Finnhub API(for fetching Crypto Symbols Prices).  
 - **JavaScript Mastery:** Preparing for upcoming interviews with a focus on advanced JavaScript concepts.  
